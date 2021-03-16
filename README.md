@@ -10,5 +10,5 @@ Here is my approach at this problem.
 * then `#include libft.h` in your .c files where you use these libft functions.
 
 * then compile your .c files with the library using following flags:
-`gcc -L. -lft *.c && ./a.out`
+`gcc -L. -lft *.c && ./a.out` \
 _"*.c" - it's all your .c files_
