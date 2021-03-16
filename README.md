@@ -11,4 +11,4 @@ Here is my approach at this problem.
 
 * then compile your .c files with the library using following flags:
 `gcc -L. -lft *.c && ./a.out`
-* "*.c" - it's all your .c files * 
+_"*.c" - it's all your .c files_
