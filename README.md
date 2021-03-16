@@ -4,11 +4,11 @@ This project is an attempt to recode C standard functions (libc). As you might k
 Here is my approach at this problem.
 
 ## Usage:
-*first run `make` or `make bonus` to create the library 
+* first run `make` or `make bonus` to create the library 
 *(bonus rule creates the library with linked list functions)*
 
-*then `#include libft.h` in your .c files where you use these libft functions.
+* then `#include libft.h` in your .c files where you use these libft functions.
 
-*then compile your .c files with the library using following flags:
+* then compile your .c files with the library using following flags:
 `gcc -L. -lft *.c && ./a.out`
 *"*.c" - it's all your .c files* 
